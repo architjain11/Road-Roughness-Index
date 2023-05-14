@@ -11,16 +11,16 @@ Micro:bit device has an accelerometer sensor which will be mounted on any moving
 
 ## App screenshot
 
-<img src="appSnip0.jpeg" alt="Screenshot" width="400"/>
+<img src="/assets/appSnip0.jpeg" alt="Screenshot" width="400"/>
 
 ## App Inventor 2 Interface
 
-<img src="ai2.png" alt="Screenshot" width="400"/>
+<img src="/assets/ai2.png" alt="Screenshot" width="400"/>
 
 ## App Code
 
-<img src="code" alt="Screenshot" width="400"/>
+<img src="assets/code.png" alt="Screenshot" width="400"/>
 
 ## Micro:bit Code
 
-<img src="microbitCode.png" alt="Screenshot" width="400"/>
+<img src="assets/microbitCode.png" alt="Screenshot" width="400"/>

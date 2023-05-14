@@ -1,1 +1,26 @@
-# Road-Roughness-Index
+# Road Roughness Index Calculation using Micro:bit
+
+App is built using MIT App Invector 2. This repository contains .aia file which is a format used by MIT App Inventor (.aia stands for App Inventor Archive).
+
+## Idea
+
+Micro:bit device has an accelerometer sensor which will be mounted on any moving vehicle. The readings of the sensor are transmitted to the android application via Bluetooth and displayed on the screen. The variation in readings of the z-axis on the accelerometer sensor can be used to calculate an estimate of the roughness of the road. This data can help us decide which roads need mend and which don't. It can even act as a tool to evaluate the contractor's job.
+
+## Animation to convey idea
+
+
+## App screenshot
+
+<img src="appSnip0.jpeg" alt="Screenshot" width="400"/>
+
+## App Inventor 2 Interface
+
+<img src="ai2.png" alt="Screenshot" width="400"/>
+
+## App Code
+
+<img src="code" alt="Screenshot" width="400"/>
+
+## Micro:bit Code
+
+<img src="microbitCode.png" alt="Screenshot" width="400"/>

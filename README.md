@@ -15,12 +15,12 @@ https://github.com/architjain11/Road-Roughness-Index/assets/63463358/00556cf0-bf
 
 ## App Inventor 2 Interface
 
-<img src="/assets/ai2.png" alt="Screenshot" width="600"/>
+<img src="/assets/ai2.png" alt="Screenshot" width="800"/>
 
-## App Code
+## App Code Blocks
 
-<img src="assets/code.png" alt="Screenshot" width="600"/>
+<img src="assets/code.png" alt="Screenshot" width="800"/>
 
-## Micro:bit Code
+## Micro:bit Code Blocks
 
-<img src="assets/microbitCode.png" alt="Screenshot" width="600"/>
+<img src="assets/microbitCode.png" alt="Screenshot" width="800"/>
